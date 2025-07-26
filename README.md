@@ -1,1 +1,1 @@
-# Expense_Splitter_for_Groups
+# Expense_Daily_Splitter_for_Groups
